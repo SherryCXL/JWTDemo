@@ -1,0 +1,14 @@
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\bin\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.deps.json
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\bin\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.runtimeconfig.json
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\bin\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.runtimeconfig.dev.json
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\bin\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.dll
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\obj\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.csprojAssemblyReference.cache
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\obj\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.csproj.CoreCompileInputs.cache
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\obj\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.RazorAssemblyInfo.cache
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\obj\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.RazorAssemblyInfo.cs
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\obj\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.AssemblyInfoInputs.cache
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\obj\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.AssemblyInfo.cs
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\obj\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.RazorTargetAssemblyInfo.cache
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\bin\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.pdb
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\obj\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.dll
+D:\Sherry\Wicresoft\ASP.NET Core\Demo\WebAPI\WebAPI2_2JWTDemo\WebAPI2_2JWTDemo\obj\Debug\netcoreapp2.2\WebAPI2_2JWTDemo.pdb
